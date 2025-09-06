@@ -5,3 +5,4 @@ dotenv
 openai
 tiktoken
 autogen-ext[http-tool]
+langchain-community
