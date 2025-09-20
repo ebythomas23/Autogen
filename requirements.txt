@@ -6,3 +6,4 @@ openai
 tiktoken
 autogen-ext[http-tool]
 langchain-community
+mem0ai
